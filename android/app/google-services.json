@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "850310015656",
+    "project_id": "airplane-d62cb",
+    "storage_bucket": "airplane-d62cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850310015656:android:5aa3d0f200717ada5a709d",
+        "android_client_info": {
+          "package_name": "com.adipranata.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850310015656-o49cm1lc3pjp11jte1e6vsu4f96v9cjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKOkuqxCjRTIqflu5jDzRDnAjCBXUAK8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850310015656-o49cm1lc3pjp11jte1e6vsu4f96v9cjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850310015656-mhq1q2544nbi7k8ivkkpe3q6tbt7ech4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adipranata.airplane"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
